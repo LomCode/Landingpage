@@ -7,14 +7,13 @@
 
 body{
     background-color: #EEEEEE;
+    margin: auto;
 }
 
 div{
     border-radius: 5px;
     background-color: white;
     text-align: center;
-    margin-right: 20%;
-    margin-left: 20%;
 }
 
 
@@ -25,4 +24,13 @@ h1{
     font-weight: 900;
     padding-bottom: 5px;
     margin-bottom: 15px;
+}
+
+h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+.space{
+    padding-bottom: 20px;
 }
